@@ -1,4 +1,4 @@
 
 public class C7 {
-int abc=0;
+float abc=0;
 }
